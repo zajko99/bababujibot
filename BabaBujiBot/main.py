@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 
-TOKEN: Final = '6764309262:AAFLIOeGXRN5XJlKkPEfN9Bua8pDblVAGk4'
+TOKEN: Final = 'xxx'
 BOT_USERNAME: Final = 'bababuji_bot'
 
 #komande
